@@ -1,0 +1,215 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Samsung galaxy s21 5G",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/220833/samsung-galaxy-s21-white-400x400.jpg",
+      "price": "1000",
+      "sale": "2000",
+      "cateId": "2",
+      "description": "Giới thiệu sản phẩm Tai nghe dây EP JBL C150SIUBLK đen với kiểu dáng trẻ trung, với chiều dài 125.5 cm, khá nhỏ gọn để mang theo, phù hợp với các bạn trẻ thích nghe nhạc"
+    },
+    {
+      "id": 4,
+      "name": "iphone 12 pro max 256G",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/228743/TimerThumb/iphone-12-pro-max-256gb-(2).jpg",
+      "price": "1000",
+      "sale": "2000",
+      "cateId": "2",
+      "description": "Giới thiệu sản phẩm Tai nghe dây EP JBL C150SIUBLK đen với kiểu dáng trẻ trung, với chiều dài 125.5 cm, khá nhỏ gọn để mang theo, phù hợp với các bạn trẻ thích nghe nhạc"
+    },
+    {
+      "id": 5,
+      "name": "xiaomi redmi note 9S",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/214924/xiaomi-redmi-note-9s-xanh-new-600x600-600x600.jpg",
+      "price": "1000",
+      "sale": "2000",
+      "cateId": "2",
+      "description": "Giới thiệu sản phẩm Tai nghe dây EP JBL C150SIUBLK đen với kiểu dáng trẻ trung, với chiều dài 125.5 cm, khá nhỏ gọn để mang theo, phù hợp với các bạn trẻ thích nghe nhạc"
+    },
+    {
+      "id": 7,
+      "name": "Samsung galaxy s20",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/220833/samsung-galaxy-s21-white-400x400.jpg",
+      "price": "2000",
+      "sale": "3000",
+      "cateId": "2",
+      "description": "Giới thiệu sản phẩm Tai nghe dây EP JBL C150SIUBLK đen với kiểu dáng trẻ trung, với chiều dài 125.5 cm, khá nhỏ gọn để mang theo, phù hợp với các bạn trẻ thích nghe nhạc"
+    },
+    {
+      "id": 8,
+      "name": "Laptop Asus VivoBook X515MA N4020/4GB/256GB/Win10",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shopping-c0079.appspot.com/o/images%2Ft-600x400.jpg?alt=media&token=30422d6d-761e-4241-9024-9fbc60cd81d7",
+      "price": "2000",
+      "sale": "3000",
+      "cateId": "3"
+    },
+    {
+      "id": 9,
+      "name": "Laptop Apple MacBook Air 2017 i5 1.8GHz/8GB/128GB",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shopping-c0079.appspot.com/o/images%2Fapple-macbook-air-mqd32sa-a-i5-5350u-600x600.jpg?alt=media&token=f7ac5c6e-d95e-46ca-91de-c4c9f10962cf",
+      "price": "5000",
+      "sale": "6000",
+      "cateId": "3"
+    },
+    {
+      "id": 10,
+      "name": "Laptop Dell Vostro 3400 i3 1115G4/8GB/256GB/Win10",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shopping-c0079.appspot.com/o/images%2Fdell-vostro-3400-i3-70235020-600x600.jpg?alt=media&token=a16ea2b4-6fd5-48a0-b068-81004640e785",
+      "price": "4000",
+      "sale": "3000",
+      "cateId": "3"
+    },
+    {
+      "id": 11,
+      "name": "Laptop HP Pavilion 15 eg0070TU i5 1135G7Office H&S2019/Win10",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shopping-c0079.appspot.com/o/images%2Fhp-pavilion-15-eg0070tu-i5-2l9h3pa-151521-051520-600x600.jpg?alt=media&token=369ec05b-5a9e-4be4-9b25-c2c1118f0efb",
+      "price": "3000",
+      "sale": "2000",
+      "cateId": "3"
+    },
+    {
+      "id": 12,
+      "name": "Tai nghe EP JBL C150 Đen",
+      "image": "https://cdn.tgdd.vn/Products/Images/54/207248/tai-nghe-ep-jbl-c150siublk-den-avatar-1-1-600x600.jpg",
+      "price": "250000",
+      "sale": "",
+      "cateId": "4",
+      "description": "Giới thiệu sản phẩm Tai nghe dây EP JBL C150SIUBLK đen với kiểu dáng trẻ trung, với chiều dài 125.5 cm, khá nhỏ gọn để mang theo, phù hợp với các bạn trẻ thích nghe nhạc"
+    },
+    {
+      "id": 13,
+      "name": "Pin sạc dự phòng Polymer 20.000mAh Type C PD Mophie Powerstation Đen",
+      "image": "https://cdn.tgdd.vn/Products/Images/57/235121/235121-600x600.jpg",
+      "price": "250000",
+      "cateId": "4",
+      "description": "Giới thiệu sản phẩm Tai nghe dây EP JBL C150SIUBLK đen với kiểu dáng trẻ trung, với chiều dài 125.5 cm, khá nhỏ gọn để mang theo, phù hợp với các bạn trẻ thích nghe nhạc"
+    },
+    {
+      "name": "Samsung galaxy s22",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/220833/samsung-galaxy-s21-white-400x400.jpg",
+      "cateId": "1",
+      "price": "12000000",
+      "id": 14,
+      "description": "Giới thiệu sản phẩm Tai nghe dây EP JBL C150SIUBLK đen với kiểu dáng trẻ trung, với chiều dài 125.5 cm, khá nhỏ gọn để mang theo, phù hợp với các bạn trẻ thích nghe nhạc"
+    },
+    {
+      "name": "Samsung galaxy s21",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/222596/TimerThumb/oppo-reno4-(10).jpg",
+      "cateId": "1",
+      "price": "120000000",
+      "id": 15,
+      "description": "Giới thiệu sản phẩm Tai nghe dây EP JBL C150SIUBLK đen với kiểu dáng trẻ trung, với chiều dài 125.5 cm, khá nhỏ gọn để mang theo, phù hợp với các bạn trẻ thích nghe nhạc"
+    },
+    {
+      "id": 16,
+      "name": "Chuột Gaming Logitech G102 Gen2 Lightsync",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shopping-c0079.appspot.com/o/images%2Fchuot-gaming-logitech-g102-gen2-lightsync-600x600.jpg?alt=media&token=90c68f95-5c64-4cd3-b0c1-d89001ed720e",
+      "cateId": "4",
+      "price": "100",
+      "sale": "200",
+      "description": "Giới thiệu sản phẩm Tai nghe dây EP JBL C150SIUBLK đen với kiểu dáng trẻ trung, với chiều dài 125.5 cm, khá nhỏ gọn để mang theo, phù hợp với các bạn trẻ thích nghe nhạc"
+    },
+    {
+      "name": "Máy tính bảng Samsung Galaxy Tab A7 (2020)",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shopping-c0079.appspot.com/o/images%2Fsamsung-galaxy-tab-a7-2020-vangdong-600x600.jpg?alt=media&token=11e94c21-899c-4f9b-ad6b-acdaadd9ccec",
+      "cateId": "5",
+      "price": "2000",
+      "sale": "3000",
+      "id": 17,
+      "description": "Giới thiệu sản phẩm Tai nghe dây EP JBL C150SIUBLK đen với kiểu dáng trẻ trung, với chiều dài 125.5 cm, khá nhỏ gọn để mang theo, phù hợp với các bạn trẻ thích nghe nhạc"
+    },
+    {
+      "id": 18,
+      "name": "Máy tính bảng Huawei MatePad T10s",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shopping-c0079.appspot.com/o/images%2Fhuawei-t10s-600x600-600x600.jpg?alt=media&token=1225ae89-b661-4b92-84b5-53c66136dccc",
+      "price": "2000",
+      "sale": "3000",
+      "cateId": "5",
+      "description": "Giới thiệu sản phẩm Tai nghe dây EP JBL C150SIUBLK đen với kiểu dáng trẻ trung, với chiều dài 125.5 cm, khá nhỏ gọn để mang theo, phù hợp với các bạn trẻ thích nghe nhạc"
+    },
+    {
+      "name": "Máy tính bảng Samsung Galaxy Tab S6 Lite",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shopping-c0079.appspot.com/o/images%2Fsamsung-galaxy-tab-s6-lite-600x600-2-600x600.jpg?alt=media&token=2c185cbb-1ead-49aa-92b5-aaf324ba7dc5",
+      "cateId": "5",
+      "price": "1000",
+      "sale": "2000",
+      "id": 19,
+      "description": "Giới thiệu sản phẩm Tai nghe dây EP JBL C150SIUBLK đen với kiểu dáng trẻ trung, với chiều dài 125.5 cm, khá nhỏ gọn để mang theo, phù hợp với các bạn trẻ thích nghe nhạc"
+    },
+    {
+      "id": 20,
+      "name": "Máy tính bảng iPad 8 Wifi Cellular 32G",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shopping-c0079.appspot.com/o/images%2Fipad-gen-8-cellular-vang-new-600x600-600x600.jpg?alt=media&token=198b5076-ae7f-4dfb-ae5a-22df5d7d34cf",
+      "price": "4000",
+      "sale": "5000",
+      "cateId": "5",
+      "description": "Giới thiệu sản phẩm Tai nghe dây EP JBL C150SIUBLK đen với kiểu dáng trẻ trung, với chiều dài 125.5 cm, khá nhỏ gọn để mang theo, phù hợp với các bạn trẻ thích nghe nhạc"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "--- Sản phẩm khác ---"
+    },
+    {
+      "id": "2",
+      "name": "Điện thoại",
+      "image": "https://cdn.tgdd.vn/Products/Images/42/228743/TimerThumb/iphone-12-pro-max-256gb-(2).jpg"
+    },
+    {
+      "id": "3",
+      "name": "Laptop",
+      "image": "https://cdn.tgdd.vn/Products/Images/44/214708/lenovo-ideapad-s340-14iil-i5-1035g1-8gb-512gb-win1-8-214708-2-400x400.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Phụ kiện",
+      "image": "https://cdn.tgdd.vn/Products/Images/54/228486/tai-nghe-chup-tai-beats-studio3-mx422-mx432-avatar-1-1-600x600.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Table",
+      "image": "https://cdn.tgdd.vn/Products/Images/522/233257/huawei-t10s-600x600-600x600.jpg"
+    },
+    {
+      "name": "tai nghe",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shopping-c0079.appspot.com/o/images%2F%C3%A1o%20len%20nam%201.webp?alt=media&token=20458a7f-7b1a-41e3-92c0-255b4dd69d1d",
+      "id": "Cnkz5NR"
+    }
+  ],
+  "account": [
+    {
+      "id": 1,
+      "username": "ph12088",
+      "names": "Trần Đăng Tân",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shopping-c0079.appspot.com/o/images%2Fz2234730465407_1f0d1d8dfceaed4dc26d5ca30ddf4cc3.jpg?alt=media&token=7e02bcd4-349e-429d-b10b-700a79494ca2",
+      "role": "1",
+      "date": "2001-12-04",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "username": "tan222",
+      "name": "Trần Đăng Tân",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shopping-c0079.appspot.com/o/images%2FMLN22-08.jpg?alt=media&token=59e82f7b-d951-4b6b-84d9-29af3347527e",
+      "date": "2021-03-21",
+      "password": "1234"
+    },
+    {
+      "id": "tan222",
+      "name": "Trần Đăng Tân",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shopping-c0079.appspot.com/o/images%2Fmaxresdefault.jpg?alt=media&token=782a8d80-aa6d-4680-b1fb-220a01f0ff70",
+      "date": "2021-03-21",
+      "password": "123456"
+    },
+    {
+      "username": "dangtan12",
+      "name": "Trần Đăng Tân",
+      "image": "https://firebasestorage.googleapis.com/v0/b/shopping-c0079.appspot.com/o/images%2Fmaxresdefault.jpg?alt=media&token=590c60c9-46e7-44c4-a9aa-f957807afbb3",
+      "date": "2021-03-14",
+      "password": "123",
+      "id": 3
+    }
+  ]
+}
